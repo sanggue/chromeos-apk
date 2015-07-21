@@ -8,9 +8,9 @@
       "apkList": [ "custom-android-release-1400197.apk" ],
       "enableExternalDirectory": false,
       "formFactor": "phone",
-      "name": "__PACKAGE__",
+      "name": "com.hcg.cok.gp.apk",
       "orientation": "portrait",
-      "packageName": "__PACKAGE__",
+      "packageName": com.hcg.cok.gp.apk",
       "useGoogleContactsSyncAdapter": false,
       "usePlayServices": [ "gcm" ]
    },
@@ -23,7 +23,7 @@
       "id": "mfaihdlpglflfgpfjcifdjdjcckigekc"
    } ],
    "manifest_version": 2,
-   "name": "__MSG_extName__",
+   "name": "clash of kings",
    "oauth2": {
       "client_id": "133701689125-jj0hr4gb0ff4ulsbrn0uk2i4th946d4c.apps.googleusercontent.com",
       "scopes": [  ]
